@@ -1,0 +1,14 @@
+{
+  "name": "mongo-node-294",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^1.4.18"
+  }
+}
